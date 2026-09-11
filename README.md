@@ -16,12 +16,12 @@
 
 <p align="center">
   Software Engineer specializing in <b>AI Agents</b>, <b>Workflow Automation</b>, and <b>Large-Scale Web Scraping / Reverse Engineering</b>.<br>
-  Experienced in bypassing advanced Anti-bot/Cloudflare protections, architecting Multi-Agent systems, and designing resilient backend pipelines.
+  Experienced in Architecting Multi-Agent systems, and designing resilient backend pipelines.
 </p>
 
-- **AI Agents & Automation**: Autonomous agent workflows (**n8n**, Mastra AI, Model Context Protocol - MCP), Tool Calling, Web Automation (Playwright), AI Video pipelines (Google Veo 3).
-- **Scraping & Reverse Engineering**: Large-scale crawl engines, TLS Fingerprinting (`curl_cffi`), dynamic proxy rotation pools, Cloudflare bypass, session persistence.
-- **Backend & Systems**: Python (FastAPI, Asyncio), TypeScript/Node.js (NestJS), PostgreSQL, SQL Server Stored Procedures on Linux/Ubuntu.
+- **AI Agents & Automation**: Autonomous agent workflows (**n8n**, Mastra AI, Model Context Protocol - MCP), Tool Calling, Web Automation (Playwright), AI Video pipelines.
+- **Scraping & Reverse Engineering**: Crawl engines, TLS Fingerprinting, dynamic proxy rotation pools, session persistence.
+- **Backend & Systems**: Python (FastAPI, Asyncio), TypeScript/Node.js (NestJS), PostgreSQL, SQL Server, Linux/Ubuntu.
 
 ---
 
@@ -36,16 +36,14 @@
 <br>
 
 - **AI Agent & Automation Engineer (Remote Contract)** &nbsp;·&nbsp; `2026 — PRESENT`
-  - **Agentic Workflows & Automation**: Thiết kế & triển khai autonomous agent workflows với **n8n**, tích hợp Tool Calling, MCP (Model Context Protocol) và multi-step agentic pipelines.
-  - **Web Crawling & Anti-Bot Engine**: Xây dựng hạ tầng crawl dữ liệu quy mô lớn, reverse engineering Web/Mobile API, bypass Cloudflare bằng TLS fingerprinting (`curl_cffi`) và dynamic proxy rotation.
-  - **Web Automation**: Tự động hóa tác vụ trình duyệt chuyên sâu với Playwright, xử lý session/cookie persistence và form automation.
-  - **AI Video Pipelines (Veo 3 Flow)**: Tích hợp mô hình sinh video Google Veo 3 vào automation workflow, tự động hóa quy trình từ kịch bản AI, render video đến phân phối.
+  - **Agentic Workflows & Automation**: Autonomous agent workflows with **n8n**, Tool Calling, MCP (Model Context Protocol) và multi-step agentic pipelines.
+  - **Web Crawling & Anti-Bot Engine**: Crawl, reverse engineering Web API, dynamic proxy rotation.
+  - **Web Automation**: Playwright, session/cookie persistence, reverse API
+  - **AI Video Pipelines (Veo 3 Flow)**: Google Veo 3 automation pipeline.
 
 - **ERP Implementation Engineer** — BRAVO Software JSC &nbsp;·&nbsp; `04/2025 — 03/2026`
-  - Khảo sát bài toán nghiệp vụ sản xuất/kế toán doanh nghiệp, thiết kế CSDL, tối ưu Stored Procedures, Triggers và Index trên SQL Server.
 
 - **CRM Integration Engineer** — AASC Audit Firm &nbsp;·&nbsp; `08/2024 — 03/2025`
-  - Phát triển module Backend tích hợp CRM & HRM trên nền tảng NestJS / TypeScript và PostgreSQL, đồng bộ dữ liệu thời gian thực qua Webhooks.
 
 ---
 
