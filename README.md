@@ -1,17 +1,17 @@
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg?v=1789274880">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg?v=1789274880">
-  <img alt="Đinh Nhật Minh — AI Agent & Automation Engineer · Backend Developer" src="./assets/hero-light.svg?v=1789274880" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg?v=1789300345">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg?v=1789300345">
+  <img alt="Đinh Nhật Minh — AI Agent & Automation Engineer · Backend Developer" src="./assets/hero-light.svg?v=1789300345" width="900">
 </picture>
 </p>
 
 <p align="center">
-<a href="https://github.com/minhdevtry"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-github-dark.svg?v=1789274880"><source media="(prefers-color-scheme: light)" srcset="./assets/badge-github-light.svg?v=1789274880"><img alt="GitHub" src="./assets/badge-github-light.svg?v=1789274880" width="24%"></picture></a><a href="mailto:dinhnhatminh.minhkhanh@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-gmail-dark.svg?v=1789274880"><source media="(prefers-color-scheme: light)" srcset="./assets/badge-gmail-light.svg?v=1789274880"><img alt="Gmail" src="./assets/badge-gmail-light.svg?v=1789274880" width="24%"></picture></a><a href="https://www.tiktok.com/@minhdevtry"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-tiktok-dark.svg?v=1789274880"><source media="(prefers-color-scheme: light)" srcset="./assets/badge-tiktok-light.svg?v=1789274880"><img alt="TikTok" src="./assets/badge-tiktok-light.svg?v=1789274880" width="24%"></picture></a><a href="https://t.me/TE_MinhDN3"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-telegram-dark.svg?v=1789274880"><source media="(prefers-color-scheme: light)" srcset="./assets/badge-telegram-light.svg?v=1789274880"><img alt="Telegram" src="./assets/badge-telegram-light.svg?v=1789274880" width="24%"></picture></a>
+<a href="https://github.com/minhdevtry"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-github-dark.svg?v=1789300345"><source media="(prefers-color-scheme: light)" srcset="./assets/badge-github-light.svg?v=1789300345"><img alt="GitHub" src="./assets/badge-github-light.svg?v=1789300345" width="24%"></picture></a><a href="mailto:dinhnhatminh.minhkhanh@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-gmail-dark.svg?v=1789300345"><source media="(prefers-color-scheme: light)" srcset="./assets/badge-gmail-light.svg?v=1789300345"><img alt="Gmail" src="./assets/badge-gmail-light.svg?v=1789300345" width="24%"></picture></a><a href="https://www.tiktok.com/@minhdevtry"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-tiktok-dark.svg?v=1789300345"><source media="(prefers-color-scheme: light)" srcset="./assets/badge-tiktok-light.svg?v=1789300345"><img alt="TikTok" src="./assets/badge-tiktok-light.svg?v=1789300345" width="24%"></picture></a><a href="https://t.me/TE_MinhDN3"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-telegram-dark.svg?v=1789300345"><source media="(prefers-color-scheme: light)" srcset="./assets/badge-telegram-light.svg?v=1789300345"><img alt="Telegram" src="./assets/badge-telegram-light.svg?v=1789300345" width="24%"></picture></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/minhdevtry?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/impact-dark.svg?v=1789274880"><source media="(prefers-color-scheme: light)" srcset="./assets/impact-light.svg?v=1789274880"><img alt="Total stars, forks and public repositories" src="./assets/impact-light.svg?v=1789274880" width="900"></picture></a>
+<a href="https://github.com/minhdevtry?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/impact-dark.svg?v=1789300345"><source media="(prefers-color-scheme: light)" srcset="./assets/impact-light.svg?v=1789300345"><img alt="Total stars, forks and public repositories" src="./assets/impact-light.svg?v=1789300345" width="900"></picture></a>
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@
 ## Career Experience
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/experience-dark.svg?v=1789274880">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/experience-light.svg?v=1789274880">
-  <img alt="Career Experience Timeline: 2026-PRESENT AI &amp; Automation Engineer (Remote Contract); 04/2025-03/2026 ERP Implementation Engineer (BRAVO Software); 08/2024-03/2025 CRM Integration Engineer (AASC Audit Firm); 2021-2025 B.S. Information Technology (HaUI University)" src="./assets/experience-light.svg?v=1789274880" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/experience-dark.svg?v=1789300345">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/experience-light.svg?v=1789300345">
+  <img alt="Career Experience Timeline: 2026-PRESENT AI &amp; Automation Engineer (Remote Contract); 04/2025-03/2026 ERP Implementation Engineer (BRAVO Software); 08/2024-03/2025 CRM Integration Engineer (AASC Audit Firm); 2021-2025 B.S. Information Technology (HaUI University)" src="./assets/experience-light.svg?v=1789300345" width="900">
 </picture>
 
 <br>
@@ -50,9 +50,9 @@
 ## Core Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg?v=1789274880">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg?v=1789274880">
-  <img alt="Core Tech Stack: L1 AI &amp; Agents - n8n, Mastra AI, MCP Protocol, Tool Calling, curl_cffi, Playwright; L2 Backend &amp; Data - Python (FastAPI), NestJS / TypeScript, PostgreSQL, SQL Server; L3 Infra &amp; Systems - Linux / Ubuntu, Docker, systemd &amp; cron, Reverse API" src="./assets/stack-light.svg?v=1789274880" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg?v=1789300345">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg?v=1789300345">
+  <img alt="Core Tech Stack: L1 AI &amp; Agents - n8n, Mastra AI, MCP Protocol, Tool Calling, curl_cffi, Playwright; L2 Backend &amp; Data - Python (FastAPI), NestJS / TypeScript, PostgreSQL, SQL Server; L3 Infra &amp; Systems - Linux / Ubuntu, Docker, systemd &amp; cron, Reverse API" src="./assets/stack-light.svg?v=1789300345" width="900">
 </picture>
 
 <br>
